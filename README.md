@@ -58,5 +58,5 @@ nvcc tests/tests_cuda.cu src/tensor_cu.cu -o test_gpu -lcudart
 
 
 # References
-- [CUDA C++ Tensor Library](https://github.com/NVIDIA/cuda-tensor-operators)
+- [CUDA C++ Tensor Library](https://docs.nvidia.com/cuda/cutensor/latest/index.html)
 - [tensor.h](https://github.com/apoorvnandan/tensor.h) Tiny tensor library in C.
